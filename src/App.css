@@ -1,0 +1,21 @@
+.App {
+  margin-top: 70px;
+  text-align: center;
+  height: 350px;
+  width: 550px;
+  border: rgb(8, 8, 8) solid 2px;
+  margin-left: 350px;
+}
+.img {
+  padding-top: 50px;
+  height: 150px;
+width: 150px;}
+
+.btn{
+  height: 50px;
+  width: 170px;
+  border-radius: 10px;
+background-image: linear-gradient(white,purple);
+  margin-top: 20px;
+  margin-left: 550px;
+}
